@@ -1,1 +1,3 @@
 # weatherJS
+
+A decent working copy of the weather project... Still need optimizations though...
